@@ -20,8 +20,5 @@
     "djs",
     "Discord.js",
     "Discord"
-  ],
-  "dependencies": {
-    "discord.js": "^12.2.0"
-  }
+  ]
 }
