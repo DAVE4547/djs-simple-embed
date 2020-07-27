@@ -1,6 +1,6 @@
 # DJS-SIMPLE-EMBED
 
-Usage:
+Example:
 
 ```
 const embed = require ('@dave4547/djs-simple-embed') // package
@@ -21,6 +21,5 @@ client.on("message", (message) => {
 
 });
 
-client.login('NzI4NjExMDk0MDkxOTIzNDk4.XwtEBw.oycpRDJ-6u2CtOZDGQw7c_oiZ4A');
-
+client.login(token);
 ```
