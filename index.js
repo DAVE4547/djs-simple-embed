@@ -10,8 +10,6 @@ exports.message = function(options) {
 
     const embeded = new MessageEmbed()
         .setTitle(options.content)
-        .setDescription(options.description)
         .setColor(color)
-        .setFooter(options.footer)
     return embeded
 }
