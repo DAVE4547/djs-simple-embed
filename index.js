@@ -2,7 +2,7 @@ exports.title = function(options) {
 
     const {  MessageEmbed } = require('discord.js');
 
-    if ( options.color = null ) {
+    if ( options.color == null ) {
         color = '2C2F33'
     } else {
         color = options.color
@@ -18,7 +18,7 @@ exports.message = function(options) {
 
     const {  MessageEmbed } = require('discord.js');
 
-    if ( options.color = null ) {
+    if ( options.color == null ) {
         color = '2C2F33'
     } else {
         color = options.color
