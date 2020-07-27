@@ -1,7 +1,7 @@
 {
   "name": "djs-simple-embed",
   "version": "1.0.0",
-  "description": "simple embed for djs",
+  "description": "Simple text embed for discord.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,17 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/DAVE4547/djs-simple-embed.git"
   },
+  "keywords": [
+    "Discord",
+    "djs",
+    "Discord.js"
+  ],
   "author": "DAVE4547",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DAVE4547/djs-simple-embed/issues"
   },
   "homepage": "https://github.com/DAVE4547/djs-simple-embed#readme",
-  "keywords": [
-    "djs",
-    "Discord.js",
-    "Discord"
-  ],
   "dependencies": {
     "discord.js": "^12.2.0"
   }
