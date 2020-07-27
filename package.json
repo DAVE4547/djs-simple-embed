@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/DAVE4547/djs-simple-embed/issues"
   },
-  "homepage": "https://github.com/DAVE4547/djs-simple-embed#readme"
+  "homepage": "https://github.com/DAVE4547/djs-simple-embed#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
 }
