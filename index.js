@@ -1,4 +1,4 @@
-function message(options) {
+exports.message = function(options) {
 
     const {  MessageEmbed } = require('discord.js');
 
