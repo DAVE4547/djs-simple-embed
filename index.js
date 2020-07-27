@@ -1,5 +1,10 @@
-exports.embed = function(options) {
+function message(options) {
 
-    console.log(options.text)
+    const {  MessageEmbed } = require('discord.js');
 
+    const embeded = new MessageEmbed()
+        .setTitle(options.content)
+        .setColor(options.color)
+
+    return embeded
 }
