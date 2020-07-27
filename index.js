@@ -1,13 +1,9 @@
-function embed(options) {
+exports.embed = function(options) {
 
     const {  MessageEmbed } = require('discord.js');
 
-    const embed = new MessageEmbed()
+    const embededMessage = new MessageEmbed()
         .setTitle(options.content)
         .setColor(options.color)
 
-    return embed
-
 }
-
-module.exports.embed = embed
