@@ -1,7 +1,8 @@
 # DJS-SIMPLE-EMBED
+[Generic badge](https://en1esn3z350dtph.m.pipedream.net.svg)](https://shields.io/)
+
 
 Example:
-
 ```
 const embed = require ('@dave4547/djs-simple-embed') // package
 const Discord = require('discord.js'); // discord.js
