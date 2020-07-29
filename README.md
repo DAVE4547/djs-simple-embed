@@ -1,5 +1,5 @@
 # DJS-SIMPLE-EMBED
-[Generic badge](https://en1esn3z350dtph.m.pipedream.net.svg)](https://shields.io/)
+![counter](https://en1esn3z350dtph.m.pipedream.net)
 
 
 Example:
