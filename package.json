@@ -1,6 +1,6 @@
 {
   "name": "@dave4547/djs-simple-embed",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A simple text embed for djs",
   "main": "index.js",
   "scripts": {
